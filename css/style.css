@@ -1,8 +1,51 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title></title>
-    <body>
 
-    <body>
-</html>
+.inline-block {
+    display: inline;
+    vertical-align: top;
+}
+
+.logo {
+    width: 23%;
+    padding: 2%;
+    
+}
+
+.nav {
+    width: 73%;
+    padding: 1%;
+}
+
+.ul {
+    float: right;
+}
+
+
+.heroImg {
+    height: 40px;  
+}
+
+.content {
+    width: 500px;
+    margin-left: 0 auto;
+}
+
+
+body {
+    background-color: #F4E9E3;
+}
+
+p {
+    font-family: Gelasio;
+    font-size: 20px;
+    font-style: none;
+    font-variant: normal;    
+}
+
+button {
+    float: right;
+}
+
+footer {
+    width: 100%;
+
+}
